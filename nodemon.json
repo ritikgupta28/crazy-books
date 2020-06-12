@@ -3,6 +3,6 @@
         "MONGO_USER": "ritikgupta",
         "MONGO_PASSWORD": "ZU5DvtmxnizGbPsu",
         "MONGO_DEFAULT_DATABASE": "shop",
-        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+        "STRIPE_KEY": "pk_test_h2tgqWZsF19xCvnJ7hQSveem00G5DfgOtO"
     }
 }
